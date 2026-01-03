@@ -1,0 +1,94 @@
+<img width="744" height="425" alt="DAVAH-AZUL (2)" src="https://github.com/user-attachments/assets/0c8ff4ad-0e03-4033-ada8-77d4680a74d3" />
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta name="description" content="Davah Inmobiliaria, inversión inmobiliaria con enfoque jurídico, derechos litigiosos y adjudicaciones.">
+<style>
+:root{--azul:#161e35;--gris:#c2c1c1;--grisclaro:#efefef;}
+body{margin:0;font-family:Arial, Helvetica, sans-serif;background:var(--grisclaro);color:var(--azul);line-height:1.75;}
+header{background:var(--azul);color:#fff;text-align:center;padding:70px 20px;}
+header img{max-width:110px;height:auto;margin-bottom:20px;}
+section{max-width:1200px;margin:auto;padding:55px 20px;}
+h2{border-bottom:2px solid var(--gris);padding-bottom:10px;margin-bottom:18px;}
+footer{background:var(--azul);color:#fff;text-align:center;padding:35px 20px;font-size:14px;}
+</style>
+</head>
+<body>
+
+<header>
+<h1>DAVAH INMOBILIARIA</h1>
+<p>Solidez jurídica, visión financiera y patrimonio sostenible</p>
+</header>
+
+<section>
+<h2>Servicios</h2>
+<p>Davah Inmobiliaria desarrolla soluciones inmobiliarias especializadas mediante la administración estratégica e inversión con énfasis jurídico. Su operación se orienta a derechos litigiosos, derechos adjudicatarios y adjudicaciones, además de la compraventa de inmuebles. Cada proyecto integra análisis normativo, evaluación financiera y planeación patrimonial, permitiendo estructurar decisiones seguras, ordenadas y alineadas a objetivos de rentabilidad sostenible.</p>
+</section>
+
+<section>
+<h2>Nuestra Empresa</h2>
+<p>La organización se dedica a la gestión integral, estructuración e inversión de derechos litigiosos, derechos adjudicatarios y procesos de adjudicación, complementando dichas actividades con operaciones de compra y venta inmobiliaria. Su modelo combina conocimiento legal aplicado, disciplina operativa y criterio financiero, transformando contextos jurídicos complejos en esquemas patrimoniales confiables y estratégicamente administrados.</p>
+</section>
+
+<section>
+<h2>Nuestra Historia</h2>
+<p>Davah Inmobiliaria nace en Santa Fe, Ciudad de México, el 29 de noviembre de 2019, como una iniciativa orientada a profesionalizar la inversión inmobiliaria jurídica. Desde su origen, la firma adopta una visión técnica y estructurada, consolidando una trayectoria basada en cumplimiento normativo, análisis profundo y construcción de confianza institucional.</p>
+</section>
+
+<section>
+<h2>Misión</h2>
+<p>Facilitar inversiones inmobiliarias sólidas mediante una gestión jurídica y financiera especializada, enfocada en proteger, consolidar y expandir el patrimonio de clientes e inversionistas, bajo principios de legalidad, claridad operativa y responsabilidad profesional.</p>
+</section>
+
+<section>
+<h2>Visión</h2>
+<p>Ser reconocida como una empresa referente en inversión inmobiliaria de carácter jurídico, distinguida por su rigor técnico, solidez normativa y capacidad para generar valor sostenible en entornos nacionales e internacionales.</p>
+</section>
+
+<section>
+<h2>Objetivos</h2>
+<p>Optimizar activos inmobiliarios administrados, disminuir contingencias legales, estructurar operaciones eficientes, fortalecer relaciones patrimoniales de largo plazo y consolidar un modelo de inversión disciplinado, alineado a metas financieras claras y medibles.</p>
+</section>
+
+<section>
+<h2>Filosofía</h2>
+<p>La filosofía de Davah Inmobiliaria se sustenta en la convicción de que el conocimiento jurídico, aplicado con visión financiera y metodología, permite convertir escenarios de incertidumbre legal en oportunidades patrimoniales estructuradas, generando estabilidad, confianza y crecimiento responsable.</p>
+</section>
+
+<section>
+<h2>Valores</h2>
+<p><strong>Integridad jurídica</strong> como base decisional; <strong>transparencia</strong> para relaciones claras; <strong>responsabilidad profesional</strong> en la gestión patrimonial; <strong>constancia operativa</strong> en el seguimiento procesal; y <strong>orientación a resultados sostenibles</strong>, alineando cada proyecto con objetivos de largo plazo y generación de valor real.</p>
+</section>
+
+<section>
+<h2>Políticas</h2>
+<p>Las políticas internas establecen directrices de cumplimiento legal, evaluación preventiva de riesgos, confidencialidad informativa y comunicación estructurada, garantizando procesos ordenados, decisiones fundamentadas y coherencia entre la operación jurídica y los intereses patrimoniales de cada cliente.</p>
+</section>
+
+<section>
+<h2>Ética</h2>
+<p>La ética corporativa guía la actuación institucional de Davah Inmobiliaria, asegurando respeto al marco normativo, conducta profesional íntegra y protección del interés de inversionistas y clientes durante todas las etapas del ciclo inmobiliario.</p>
+</section>
+
+<section>
+<h2>Soluciones</h2>
+<p>La firma ofrece soluciones integrales ante problemáticas inmobiliarias y legales mediante diagnóstico especializado, planeación estratégica, acompañamiento procesal y ejecución disciplinada, transformando complejidad jurídica en oportunidades patrimoniales estructuradas y controladas.</p>
+</section>
+
+<section>
+<h2>Contacto</h2>
+<p><strong>Teléfono:</strong> 55 4090 8446</p>
+<p><strong>Instagram:</strong> @davahinmobiliaria</p>
+<p><strong>Dirección:</strong> Guanajuato 224, Roma Norte, Alcaldía Cuauhtémoc, C.P. 06700, Ciudad de México</p>
+<p><strong>Sitio web:</strong> www.davahinmobiliaria.com</p>
+</section>
+
+<footer>
+<p>© 2026 Davah Inmobiliaria · Confianza legal y visión patrimonial</p>
+<p style="font-size:12px;opacity:0.8;">La información contenida en este sitio es de carácter informativo y no constituye asesoría legal.</p>
+</footer>
+
+</body>
+</html>
